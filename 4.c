@@ -56,7 +56,7 @@ void main(){
 }
 
 	printf("\nsum of the row: %d",sum);
-	printf("\nenter cln number: ");
+	printf("\nenter c number: ");
 	scanf("%d",&y);
 
 	for(i=0;i<r;i++){
@@ -67,7 +67,7 @@ void main(){
 			}
 		}
 	}
-	printf("\nsum of the col.. %d",add);
+	printf("\nsum of the colum %d",add);
 }
 		
 	
